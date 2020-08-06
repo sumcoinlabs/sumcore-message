@@ -3,8 +3,8 @@ coverage
 node_modules
 
 npm-debug.log
-litecore-message.js
-litecore-message.min.js
+sumcore-message.js
+sumcore-message.min.js
 tests.js
 
 report

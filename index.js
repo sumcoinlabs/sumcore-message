@@ -1,4 +1,4 @@
-var litecore = require('litecore-lib');
-litecore.Message = require('./lib/message');
+var sumcore = require('sumcore-lib');
+sumcore.Message = require('./lib/message');
 
-module.exports = litecore.Message;
+module.exports = sumcore.Message;

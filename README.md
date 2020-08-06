@@ -1,5 +1,5 @@
 <img src="http://bitcore.io/css/images/module-message.png" alt="litecore message" height="35">
-# Litecoin Message Verification and Signing for Litecore
+# Litecoin Message Verification and Signing for Sumcore
 
 
 [![NPM Package](https://img.shields.io/npm/v/litecore-message.svg?style=flat-square)](https://www.npmjs.org/package/litecore-message)

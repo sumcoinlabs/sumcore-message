@@ -4,7 +4,7 @@
 
 [![NPM Package](https://img.shields.io/npm/v/sumcore-message.svg?style=flat-square)](https://www.npmjs.org/package/sumcore-message)
 [![Build Status](https://img.shields.io/travis/sumcoinlabs/sumcore-message.svg?branch=master&style=flat-square)](https://travis-ci.org/sumcoinlabs/sumcore-message)
-[![Coverage Status](https://img.shields.io/coveralls/sumcoinlabs/sumcore-message.svg?style=flat-square)](https://coveralls.io/r/sumcoinlabs/sumcore-message?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/sumcoinlabs/sumcore-message/badge.svg?branch=master)](https://coveralls.io/github/sumcoinlabs/sumcore-message?branch=master)
 
 sumcore-message adds support for verifying and signing sumcoin messages in [Node.js](http://nodejs.org/) and web browsers.
 

@@ -2,29 +2,29 @@
 # Sumcoin Message Verification and Signing for Sumcore
 
 
-[![NPM Package](https://img.shields.io/npm/v/sumcore-message.svg?style=flat-square)](https://www.npmjs.org/package/sumcore-message)
-[![Build Status](https://img.shields.io/travis/sumcoinlabs/sumcore-message.svg?branch=master&style=flat-square)](https://travis-ci.org/sumcoinlabs/sumcore-message)
-[![Coverage Status](https://coveralls.io/repos/github/sumcoinlabs/sumcore-message/badge.svg?branch=master)](https://coveralls.io/github/sumcoinlabs/sumcore-message?branch=master)
+[![NPM Package](https://img.shields.io/npm/v/bitcore-message-sumcoin.svg?style=flat-square)](https://www.npmjs.org/package/bitcore-message-sumcoin)
+[![Build Status](https://img.shields.io/travis/sumcoinlabs/bitcore-message-sumcoin.svg?branch=master&style=flat-square)](https://travis-ci.org/sumcoinlabs/bitcore-message-sumcoin)
+[![Coverage Status](https://coveralls.io/repos/github/sumcoinlabs/bitcore-message-sumcoin/badge.svg?branch=master)](https://coveralls.io/github/sumcoinlabs/bitcore-message-sumcoin?branch=master)
 
-sumcore-message adds support for verifying and signing sumcoin messages in [Node.js](http://nodejs.org/) and web browsers.
+bitcore-message-sumcoin adds support for verifying and signing sumcoin messages in [Node.js](http://nodejs.org/) and web browsers.
 
 See [the main sumcore repo](https://github.com/sumcoinlabs/sumcore) for more information.
 
 ## Getting Started
 
 ```sh
-npm install sumcore-message
+npm install bitcore-message-sumcoin
 ```
 
 ```sh
-bower install sumcore-message
+bower install bitcore-message-sumcoin
 ```
 
 To sign a message:
 
 ```javascript
 var sumcore = require('sumcore-lib');
-var Message = require('sumcore-message');
+var Message = require('bitcore-message-sumcoin');
 
 var privateKey = sumcore.PrivateKey.fromWIF('cPBn5A4ikZvBTQ8D7NnvHZYCAxzDZ5Z2TSGW2LkyPiLxqYaJPBW4');
 var signature = Message('hello, world').sign(privateKey);

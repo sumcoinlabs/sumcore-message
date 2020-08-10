@@ -1,8 +1,8 @@
 {
-  "name": "sumcore-message",
-  "main": "./sumcore-message.min.js",
+  "name": "bitcore-message-sumcoin",
+  "main": "./bitcore-message-sumcoin.min.js",
   "version": "1.0.2",
-  "homepage": "https://github.com/sumcoinlabs/sumcore-message",
+  "homepage": "https://github.com/sumcoinlabs/bitcore-message-sumcoin",
   "authors": [
     "BitPay"
   ],

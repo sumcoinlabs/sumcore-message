@@ -3,8 +3,8 @@ coverage
 node_modules
 
 npm-debug.log
-sumcore-message.js
-sumcore-message.min.js
+bitcore-message-sumcoin.js
+bitcore-message-sumcoin.min.js
 tests.js
 
 report
